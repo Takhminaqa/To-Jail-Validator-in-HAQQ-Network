@@ -9,3 +9,10 @@
 Выбираем активного валидатора,у которого виден IP адрес и открыт порт 26656  и можно начинать.<br/>
 **Смотрим, что Валидатор работает и активен**<br/>
 ![pic1](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/1pic.png)
+Запускаем команду, и видим, через несколько минут Валидатор начинает пропускать. <br/>
+![pic2](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/2pics.png)
+Прерываем команду 3 раза. 
+![pic3](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/3pics.png)
+![pic4](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/4pics.png)
+![pic5](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/5pics.png)
+Подытожим интересное задание. Если не прирывать команду, через несколько минут Валидатор начинает пропускать блоки и в итоге оказывается в тюрьме. По скринам понятно, что пропуск блоков был инициирован мной т.е извне.
