@@ -27,5 +27,5 @@ We interrupt the command 3 times.![pic3](https://github.com/Takhminaqa/To-Jail-V
 ![pic4](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/4pics.png)
 ![pic5](https://github.com/Takhminaqa/To-Jail-Validator-in-HAQQ-Network/blob/main/asset/5pics.png)
 
-RU. Подытожим интересное задание. Если не прирывать команду, через несколько минут Валидатор начинает пропускать блоки и в итоге оказывается в тюрьме. По скринам понятно, что пропуск блоков был инициирован мной т.е извне.<br/>
+RU. Подытожим интересное задание. Если не прерывать команду, через несколько минут Валидатор начинает пропускать блоки и в итоге оказывается в тюрьме. По скринам понятно, что пропуск блоков был инициирован мной т.е извне.<br/>
 En. To sum up this  interesting task. If you don't interrupt the team, after a few minutes the Validator starts skipping blocks and ends up in jail. From the screenshots, it is clear that the skipping of blocks was initiated by me, i.e. from the outside.
